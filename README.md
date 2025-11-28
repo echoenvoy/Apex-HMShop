@@ -32,6 +32,7 @@ It includes product browsing, search, filtering, cart, wishlist, and checkout si
 ## 🌐 Live Demo
 
 🔗 Visit the Website:
+
 https://echoenvoy.github.io/Apex-HMShop/version%201/ds.html
 ---
 ## 🌀 Alternative Version (Lovable)
