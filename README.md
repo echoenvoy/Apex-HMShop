@@ -1,4 +1,3 @@
----
 
 # 🛍️ HMShop – Modern eCommerce Frontend
 
@@ -7,20 +6,20 @@ It includes product browsing, search, filtering, cart, wishlist, and checkout si
 
 ---
 
-## ✨ Main Features
+##  Main Features
 
-* 🛒 **Shopping Cart** (add, update, remove, saved in localStorage)
-* ❤️ **Wishlist System**
-* 🔍 **Search + Filters** (category, price range, stock)
-* 💳 **Checkout Simulation** (shipping + payment form)
-* 🌙 **Light/Dark Mode**
-* 📱 **Fully Responsive UI**
-* 🔔 **Toast notifications & smooth animations**
-* 🚀 **SPA Navigation** (no page reloads)
+*  **Shopping Cart** (add, update, remove, saved in localStorage)
+*  **Wishlist System**
+*  **Search + Filters** (category, price range, stock)
+*  **Checkout Simulation** (shipping + payment form)
+*  **Light/Dark Mode**
+*  **Fully Responsive UI**
+*  **Toast notifications & smooth animations**
+*  **SPA Navigation** (no page reloads)
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 * **HTML5, CSS3, Vanilla JavaScript**
 * **DummyJSON API** for product data
@@ -29,25 +28,24 @@ It includes product browsing, search, filtering, cart, wishlist, and checkout si
 
 ---
 
-## 🌐 Live Demo
-
-🔗 Visit the Website:
+## Live Demo
+ Visit the Website:
 https://apex-hm-shop.vercel.app/codes/main.html
 
 ---
-## 🌀 Alternative Version (Lovable)
+##  Alternative Version (Lovable)
 
 There is also a second version of this project developed using **Lovable** (AI-generated web app builder).
 You can explore the Lovable-built version here:
 
-🔗 **Lovable Version:**
+ **Lovable Version:**
 
  *https://preview--apex-shop-pro.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiRGR2YlFhMHBPWVhPQkJxTHNZQkpadFBoeGJhMiIsInByb2plY3RfaWQiOiJiODA1MzliNS02NWFiLTQ0YjAtYTdiNC1iYWY1YTM3ZWYyMjAiLCJub25jZSI6ImVhOTg1MDNkM2Y2MzE4NjM1MDdiYmJhNTcxNGM5OWY5IiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiJiODA1MzliNS02NWFiLTQ0YjAtYTdiNC1iYWY1YTM3ZWYyMjAiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY0OTM1NzkwLCJuYmYiOjE3NjQzMzA5OTAsImlhdCI6MTc2NDMzMDk5MH0.hpag7HhCFgV8ZM8ZlDlccyn5DlK4m-trvQOF5No82Sk/*
 
 Both versions present the same eCommerce concept, but the Lovable version showcases an AI-generated design and structure.
 
 ---
-## ⭐ About the Project
+## About the Project
 
 A clean, modern eCommerce frontend demonstrating UI/UX design, SPA architecture, dynamic rendering, and client-side state management.
 
